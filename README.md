@@ -92,7 +92,7 @@ Retail-Sales-Analytics/
 
 ##  **Dashboard Preview**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ---
 
